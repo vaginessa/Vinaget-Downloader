@@ -1,5 +1,5 @@
 # vinaget-script
-http://vinaget.us/
+
 ######################################
 - How to use:
    - CHMOD the folder "data" to 777
@@ -12,7 +12,6 @@ http://vinaget.us/
 ######################################
 
 Description: 	
-* Home page: http://vinaget.us
 * Version: VinaGet v2.7.0 Final
 * Description: 
  - Vinaget is script generator premium link that allows you to download files instantly and at the best of your Internet speed.
